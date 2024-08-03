@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Minahil Ashfaq</h1>
-<h3 align="center">A Frontend Developer specializing in crafting responsive, user-friendly web interfaces. Experienced in leveraging modern technologies to build dynamic and visually appealing digital experiences.</h3>
+<h4 align="left">A Frontend Developer specializing in crafting responsive, user-friendly web interfaces. Experienced in leveraging modern technologies to build dynamic and visually appealing digital experiences.</h4>
 
 <img align="right" height="150" src="https://www.flaticon.com/free-sticker/binary-code_11920708?term=tech&page=2&position=20&origin=search&related_id=11920708
 " />
 
 ###
-
-- 🌱 I’m currently learning **React and other contemporary frameworks to enhance my expertise in building cutting-edge web applications.**
-- 📫 Contibuting to open source 
+<h3>About me</h3>
+- 🌱 I’m currently learning **React and other contemporary frameworks to enhance my expertise in building cutting-edge web applications.** <br>
+- 📫 Also contibuting to **open source** <br>
+- I am loking to collaborate on commercial projects and startup <br>
+- 📫 How to reach me: **minahilashfaq48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,5 +61,5 @@
 <br clear="both">
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Minahil48/Minahil48/output/snake.svg" alt="Snake animation" />
 </div>
