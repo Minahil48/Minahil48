@@ -58,8 +58,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=minahil48&theme=dracula&hide_border=false" alt="Minahil's GitHub Streak" />
 </p>
 
-<br clear="both">
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/Minahil48/Minahil48/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Minahil48/Minahil48/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+##
