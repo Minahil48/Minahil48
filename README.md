@@ -61,5 +61,5 @@
 <br clear="both">
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Minahil48/Minahil48/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Minahil48/Minahil48/output/github-contribution-grid-snake-dark.svg"/>
 </div>
