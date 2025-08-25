@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Minahil Ashfaq 👋</h1>
-<h3 align="center">Aspiring Web Developer from Pakistan</h3>
+<h3 align="center"> Web Developer</h3>
 
 <h4 align="left">
-  A Frontend Developer specializing in crafting responsive, user-friendly web interfaces. Experienced in leveraging modern technologies to build dynamic and visually appealing digital experiences.
+  A Web Developer specializing in crafting responsive, user-friendly web interfaces. Experienced in leveraging modern technologies to build dynamic and visually appealing digital experiences.
 </h4>
 
-<p>
-  🌱 I’m currently learning <b>React and other contemporary frameworks to enhance my expertise in building cutting-edge web applications.</b><br />
-  ✨ I study: Bachelors in Computer Science
-</p>
 
 ## About Me
 - 🔭 I’m looking to collaborate on commercial projects and startups
@@ -18,8 +14,7 @@
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300" />
 
 ## My Stack
-- Chat bots (Instagram, WhatsApp, LinkedIn)
-- HTML/CSS, JavaScript
+- HTML/CSS, Tailwind, Bootstrap, JavaScript, Typescript React, Nextjs
 - SQL, MySQL, MongoDB
 - Java, C++, Python
 
