@@ -14,7 +14,7 @@
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300" />
 
 ## My Stack
-- HTML/CSS, Tailwind, Bootstrap, JavaScript, Typescript React, Nextjs
+- HTML/CSS, Tailwind, Bootstrap, JavaScript, Typescript, React, Nextjs, Express, Node js
 - SQL, MySQL, MongoDB
 - Java, C++, Python
 
